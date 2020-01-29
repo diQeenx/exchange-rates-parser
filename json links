@@ -1,0 +1,15 @@
+https://free.currconv.com/api/v7/convert?q=USD_RUB&compact=ultra&apiKey=e97a39bbfe370e6d886d
+
+https://quoteorg.fxclub.org/info/ru?intervals=D1&fields=description,market,type&symbols=EURUSD,USDRUB,EURRUB,GBPUSD,AUDUSD,USDJPY,NZDUSD,USDCAD&markets=
+
+https://exchangeratesapi.io/
+
+https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5
+
+https://belapb.by/CashConvRatesDaily.php?ondate=01/27/2020
+
+http://www.nbrb.by/Services/XmlExRates.aspx
+
+https://quotes.instaforex.com/api/quotesTick
+
+https://id.agvg.by/calculator/get-rates?rates[]=AUD&rates[]=BGN&rates[]=UAH&rates[]=DKK&rates[]=USD&rates[]=EUR&rates[]=PLN&rates[]=IRR&rates[]=ISK&rates[]=JPY&rates[]=CAD&rates[]=CNY&rates[]=KWD&rates[]=MDL&rates[]=NZD&rates[]=NOK&rates[]=RUB&rates[]=XDR&rates[]=SGD&rates[]=KGS&rates[]=KZT&rates[]=TRY&rates[]=GBP&rates[]=CZK&rates[]=SEK&rates[]=CHF&date=2020-01-27T00%3A00%3A00
